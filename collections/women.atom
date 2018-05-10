@@ -1,0 +1,2636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://shoe-finder.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://shoe-finder.myshopify.com/collections/women.atom"/>
+  <title>Shoescape</title>
+  <updated>2018-05-04T16:20:51-04:00</updated>
+  <author>
+    <name>Shoescape</name>
+  </author>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+    <published>2018-05-04T16:20:51-04:00</published>
+    <updated>2018-05-04T16:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/new-balance-1400s"/>
+    <title>New Balance 1400s</title>
+    <s:type>Running</s:type>
+    <s:vendor>New Balance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/New_Balance_1400s.jpeg?v=1525465643" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>New Balance<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            72.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>5 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>6 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>7 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>8 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>9 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>10 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>11 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>12 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>13 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>14 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697613884</id>
+      <title>15 / Green</title>
+      <s:price currency="CAD">72.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+    <published>2018-05-04T16:20:51-04:00</published>
+    <updated>2018-05-04T16:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/nike-free-rn-motion-flyknit-2017"/>
+    <title>Nike Free RN Motion-Flyknit 2017</title>
+    <s:type>Running</s:type>
+    <s:vendor>New Balance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Nike_Free_RN_Motion-Flyknit_2017.jpeg?v=1525466064" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>New Balance<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>5 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>6 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>7 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>8 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>9 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>10 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>11 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>12 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>13 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>14 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653714980924</id>
+      <title>15 / Green</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+    <published>2018-05-04T16:20:51-04:00</published>
+    <updated>2018-05-04T16:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/nike-odyssey-react"/>
+    <title>Nike Odyssey React</title>
+    <s:type>Running</s:type>
+    <s:vendor>New Balance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Nike_Odyssey_React.jpeg?v=1525465958" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>New Balance<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>5 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>6 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>7 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>8 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>9 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>10 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>11 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>12 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>13 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>14 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653711933500</id>
+      <title>15 / Green</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+    <published>2018-05-04T16:20:51-04:00</published>
+    <updated>2018-05-04T16:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/saucony-s5"/>
+    <title>Saucony S5</title>
+    <s:type>Running</s:type>
+    <s:vendor>Saucony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Saucony_S5.jpeg?v=1525466498" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Saucony<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>5 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>6 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>7 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>8 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>9 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>10 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>11 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>12 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>13 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>14 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653742800956</id>
+      <title>15 / Green</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+    <published>2018-05-04T16:20:51-04:00</published>
+    <updated>2018-05-04T16:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/new-balance-vizee"/>
+    <title>New Balance Vizee</title>
+    <s:type>Running</s:type>
+    <s:vendor>New Balance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/New_Balance_Vizee.jpeg?v=1525466538" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>New Balance<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>5 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>6 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>7 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>8 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>9 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>10 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>11 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>12 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>13 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>14 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653745061948</id>
+      <title>15 / Green</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+    <published>2018-05-04T16:20:50-04:00</published>
+    <updated>2018-05-04T16:20:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/asics-dynaflyte-2"/>
+    <title>Asics Dynaflyte 2</title>
+    <s:type>Training</s:type>
+    <s:vendor>Asics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Asics_Dynaflyte_2.jpeg?v=1525465794" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Asics<br />
+        <strong>Type: </strong>Training<br />
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>5 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>6 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>7 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>8 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>9 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>10 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>11 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>12 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>13 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>14 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697548348</id>
+      <title>15 / Blue</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+    <published>2018-05-04T16:20:50-04:00</published>
+    <updated>2018-05-04T16:20:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/asics-gel-runner-3"/>
+    <title>Asics Gel Runner 3</title>
+    <s:type>Training</s:type>
+    <s:vendor>Asics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Asics_Gel_Runner_3.jpeg?v=1525467117" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Asics<br />
+        <strong>Type: </strong>Training<br />
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>5 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>6 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>7 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>8 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>9 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>10 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>11 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>12 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>13 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>14 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653760856124</id>
+      <title>15 / Orange</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+    <published>2018-05-04T16:20:50-04:00</published>
+    <updated>2018-05-04T16:20:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/asics-gel-kenun-knit"/>
+    <title>Asics Gel Kenun Knit</title>
+    <s:type>Lifestyle</s:type>
+    <s:vendor>Asics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Asics_Gel_Kenun_Knit.jpeg?v=1525467182" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Asics<br />
+        <strong>Type: </strong>Lifestyle<br />
+        <strong>Price: </strong>
+            229.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>5 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>6 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>7 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>8 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>9 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>10 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>11 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>12 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>13 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>14 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653761413180</id>
+      <title>15 / Orange</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+    <published>2018-05-04T16:20:48-04:00</published>
+    <updated>2018-05-04T16:20:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/asics-gel-nimbus-20-boston-2018"/>
+    <title>Asics Gel Nimbus 20 Boston 2018</title>
+    <s:type>Running</s:type>
+    <s:vendor>Asics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Asics_Gel_Nimbus_20_Boston_2018.jpeg?v=1525465718" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Asics<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>5 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>6 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>7 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>8 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>9 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>10 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>11 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>12 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>13 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>14 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697515580</id>
+      <title>15 / Blue</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+    <published>2018-05-04T16:20:47-04:00</published>
+    <updated>2018-05-04T16:20:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/saucony-lite-runner-sc"/>
+    <title>Saucony Lite Runner SC</title>
+    <s:type>Running</s:type>
+    <s:vendor>Saucony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Saucony_Lite_Runner_SC.jpeg?v=1525465496" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Saucony<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>5 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>6 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>7 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>8 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>9 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>10 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>11 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>12 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>13 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>14 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697450044</id>
+      <title>15 / Blue</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+    <published>2018-05-04T16:20:47-04:00</published>
+    <updated>2018-05-04T16:20:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/new-balance-fresh-foam"/>
+    <title>New Balance Fresh Foam</title>
+    <s:type>Running</s:type>
+    <s:vendor>New Balance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/New_Balance_Fresh_Foam.jpeg?v=1525466657" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>New Balance<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>5 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>6 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>7 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>8 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>9 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>10 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>11 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>12 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>13 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>14 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653750239292</id>
+      <title>15 / Grey</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+    <published>2018-05-04T16:20:47-04:00</published>
+    <updated>2018-05-04T16:20:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/under-armour-charged-bandit-3"/>
+    <title>Under Armour Charged Bandit 3</title>
+    <s:type>Lifestyle</s:type>
+    <s:vendor>Under Armour</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Under_Armour_Charged_Bandit_3.jpeg?v=1525466894" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Under Armour<br />
+        <strong>Type: </strong>Lifestyle<br />
+        <strong>Price: </strong>
+            101.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>5 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>6 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>7 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>8 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>9 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>10 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>11 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>12 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>13 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>14 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653755744316</id>
+      <title>15 / Grey</title>
+      <s:price currency="CAD">101.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+    <published>2018-05-04T16:20:47-04:00</published>
+    <updated>2018-05-04T16:20:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/nike-air-vapormax-2"/>
+    <title>Nike Air VaporMax 2</title>
+    <s:type>Running</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Nike_Air_VaporMax_2.jpeg?v=1525466919" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>5 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>6 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>7 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>8 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>9 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>10 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>11 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>12 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>13 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>14 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653756432444</id>
+      <title>15 / Grey</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+    <published>2018-05-04T16:20:47-04:00</published>
+    <updated>2018-05-04T16:20:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/adidas-adizero-prime-boost-parley"/>
+    <title>Adidas Adizero Prime-Boost Parley</title>
+    <s:type>Running</s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Adidas_Adizero_Prime-Boost_Parley.jpeg?v=1525466985" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Adidas<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>5 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>6 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>7 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>8 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>9 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>10 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>11 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>12 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>13 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>14 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653757710396</id>
+      <title>15 / Grey</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+    <published>2018-05-04T16:20:47-04:00</published>
+    <updated>2018-05-04T16:20:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/adidas-ultra-boost-sun"/>
+    <title>Adidas Ultra Boost Sun</title>
+    <s:type>Running</s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Adidas_Ultra_Boost_Sun.jpeg?v=1525469328" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Adidas<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>5 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>6 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>7 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>8 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>9 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>10 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>11 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>12 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>13 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>14 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653805813820</id>
+      <title>15 / Grey</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+    <published>2018-05-04T16:20:47-04:00</published>
+    <updated>2018-05-04T16:20:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/asics-gel-ds-trainer"/>
+    <title>Asics Gel DS Trainer</title>
+    <s:type>Training</s:type>
+    <s:vendor>Asics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Asics_Gel_DS_Trainer.jpeg?v=1525469353" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Asics<br />
+        <strong>Type: </strong>Training<br />
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>5 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>6 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>7 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>8 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>9 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>10 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>11 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>12 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>13 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>14 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653807255612</id>
+      <title>15 / Grey</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+    <published>2018-05-04T16:20:45-04:00</published>
+    <updated>2018-05-04T16:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/new-balance-trainer-560"/>
+    <title>New Balance Trainer 560</title>
+    <s:type>Training</s:type>
+    <s:vendor>New Balance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/New_Balance_Trainer_560.jpeg?v=1525465568" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>New Balance<br />
+        <strong>Type: </strong>Training<br />
+        <strong>Price: </strong>
+            179.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>5 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>6 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>7 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>8 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>9 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>10 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>11 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>12 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>13 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>14 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653697384508</id>
+      <title>15 / Blue</title>
+      <s:price currency="CAD">179.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+    <published>2018-05-04T16:20:45-04:00</published>
+    <updated>2018-05-04T16:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/new-balance-fresh-foam-arishi-sport"/>
+    <title>New Balance Fresh Foam Arishi Sport</title>
+    <s:type>Lifestyle</s:type>
+    <s:vendor>New Balance</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/New_Balance_Fresh_Foam_Arishi_Sport.jpeg?v=1525468629" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>New Balance<br />
+        <strong>Type: </strong>Lifestyle<br />
+        <strong>Price: </strong>
+            82.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>5 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>6 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>7 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>8 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>9 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>10 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>11 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>12 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>13 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>14 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653780156476</id>
+      <title>15 / Purple</title>
+      <s:price currency="CAD">82.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+    <published>2018-05-04T16:20:45-04:00</published>
+    <updated>2018-05-04T16:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/brooks-support-ex"/>
+    <title>Brooks Support EX</title>
+    <s:type>Running</s:type>
+    <s:vendor>Brooks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Brooks_Support_EX.jpg?v=1525468771" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Brooks<br />
+        <strong>Type: </strong>Running<br />
+        <strong>Price: </strong>
+            249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>5 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>6 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>7 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>8 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>9 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>10 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>11 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>12 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>13 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>14 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653783236668</id>
+      <title>15 / Purple</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+    <published>2018-05-04T16:20:45-04:00</published>
+    <updated>2018-05-04T16:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/asics-gel-as400"/>
+    <title>Asics Gel AS400</title>
+    <s:type>Training</s:type>
+    <s:vendor>Asics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Asics_Gel_AS400.jpg?v=1525468816" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Asics<br />
+        <strong>Type: </strong>Training<br />
+        <strong>Price: </strong>
+            119.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>5 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>6 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>7 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>8 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>9 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>10 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>11 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>12 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>13 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>14 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653784121404</id>
+      <title>15 / Purple</title>
+      <s:price currency="CAD">119.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+    <published>2018-05-04T16:20:45-04:00</published>
+    <updated>2018-05-04T16:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/under-armour-speed-runner-xe"/>
+    <title>Under Armour Speed Runner XE</title>
+    <s:type>Training</s:type>
+    <s:vendor>Under Armour</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Under_Armour_Speed_Runner_XE.jpeg?v=1525468934" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Under Armour<br />
+        <strong>Type: </strong>Training<br />
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>5 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>6 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>7 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>8 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>9 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>10 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>11 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>12 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>13 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>14 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653788053564</id>
+      <title>15 / Red</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+    <published>2018-05-04T16:20:45-04:00</published>
+    <updated>2018-05-04T16:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/nike-zoom-fly"/>
+    <title>Nike Zoom Fly</title>
+    <s:type>Lifestyle</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Nike_Zoom_Fly.jpeg?v=1525468964" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Lifestyle<br />
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>5 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>6 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>7 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>8 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>9 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>10 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>11 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>12 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>13 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>14 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653791100988</id>
+      <title>15 / Red</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+    <published>2018-05-04T16:20:45-04:00</published>
+    <updated>2018-05-04T16:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/adidas-ultra-boost-fire"/>
+    <title>Adidas Ultra Boost Fire</title>
+    <s:type>Lifestyle</s:type>
+    <s:vendor>Adidas</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Adidas_Ultra_Boost_Fire.jpeg?v=1525468997" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Adidas<br />
+        <strong>Type: </strong>Lifestyle<br />
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>5 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>6 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>7 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>8 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>9 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>10 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>11 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>12 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>13 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>14 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653792542780</id>
+      <title>15 / Red</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+    <published>2018-05-04T16:20:45-04:00</published>
+    <updated>2018-05-04T16:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/under-armour-hovr-sonic-nc"/>
+    <title>Under Armour HOVR Sonic NC</title>
+    <s:type>Lifestyle</s:type>
+    <s:vendor>Under Armour</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Under_Armour_HOVR_Sonic_NC.jpeg?v=1525469170" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Under Armour<br />
+        <strong>Type: </strong>Lifestyle<br />
+        <strong>Price: </strong>
+            85.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>5 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>6 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>7 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>8 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>9 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>10 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>11 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>12 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>13 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>14 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653799686204</id>
+      <title>15 / White</title>
+      <s:price currency="CAD">85.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+    <published>2018-05-04T16:20:45-04:00</published>
+    <updated>2018-05-04T16:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://shoe-finder.myshopify.com/products/nike-epic-react-flyknit"/>
+    <title>Nike Epic React Flyknit</title>
+    <s:type>Lifestyle</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0063/1557/3308/products/Nike_Epic_React_Flyknit.jpeg?v=1525469210" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Nike<br />
+        <strong>Type: </strong>Lifestyle<br />
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>5 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>6 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>7 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>8 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>9 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>10 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>11 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>12 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>13 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>14 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://shoe-finder.myshopify.com/products/653801685052</id>
+      <title>15 / White</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
